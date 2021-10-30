@@ -11,27 +11,16 @@
                 </li>
 
                 <li class="sub-menu dcjq-parent-li">
-                    <a href="javascript:;" class="dcjq-parent">
+                    <a  class="dcjq-parent">
                         <i class="fa fa-book"></i>
                         <span>Danh mục sản phẩm</span>
                         <span class="dcjq-icon"></span></a>
-                    <ul class="sub" style="display: none;">
-                        <li><a href="http://localhost/shopbanhanglaravel/add-category-product">Thêm danh mục sản phẩm</a></li>
-                        <li><a href="http://localhost/shopbanhanglaravel/all-category-product">Liệt kê danh mục sản phẩm</a></li>
-
-                    </ul>
                 </li>
-
                 <li class="sub-menu dcjq-parent-li">
-                    <a href="javascript:;" class="dcjq-parent">
+                    <a class="dcjq-parent">
                         <i class="fa fa-book"></i>
                         <span>Sản phẩm </span>
                         <span class="dcjq-icon"></span></a>
-                    <ul class="sub" style="display: none;">
-                        <li><a href="http://localhost/shopbanhanglaravel/add-product">Thêm Sản phẩm </a></li>
-                        <li><a href="http://localhost/shopbanhanglaravel/all-product">Liệt kê Sản phẩm </a></li>
-
-                    </ul>
                 </li>
 
                 <li class="sub-menu dcjq-parent-li">
@@ -39,11 +28,6 @@
                         <i class="fa fa-book"></i>
                         <span>Thương hiệu </span>
                         <span class="dcjq-icon"></span></a>
-                    <ul class="sub" style="display: none;">
-                        <li><a href="http://localhost/shopbanhanglaravel/add-brand-product">Thêm thương hiệu </a></li>
-                        <li><a href="http://localhost/shopbanhanglaravel/all-brand-product">Liệt kê thương hiệu </a></li>
-
-                    </ul>
                 </li>
 
 
