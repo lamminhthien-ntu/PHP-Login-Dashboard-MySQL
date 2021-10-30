@@ -24,7 +24,6 @@ include('head.php');
         <!--main content start-->
         <section id="main-content">
             <section class="wrapper">
-
                 <div class="row">
                     <div class="col-lg-12">
                         <section class="panel">
@@ -64,19 +63,15 @@ include('head.php');
 
             </section>
             <!-- footer -->
-
-            <div class="footer">
-
-                <div class="wthree-copyright">
-                    <p>© 2017 Visitors. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-                </div>
-            </div>
+            <?php include ('footer.php') ?>
             <!-- / footer -->
         </section>
         <!--main content end-->
     </section>
     <!--main content end-->
 </section>
+
+
 <?php
 include ('script.php');
 ?>
