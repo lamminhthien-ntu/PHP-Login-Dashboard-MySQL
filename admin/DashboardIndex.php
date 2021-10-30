@@ -25,7 +25,7 @@
 					<!-- user login dropdown start-->
 					</a>
                     <li class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="http://localhost/shopbanhanglaravel/all-product#">
-							<img alt="" src="./DashboardIndexCSS/2.png">
+							<img alt="" src="DashboardCSS/2.png">
 							<span class="username">
 								Lâm Minh Thiện
 							</span>
@@ -103,7 +103,7 @@
 
             <td>Masstel Tab 10 4G</td>
             <td>3490000</td>
-            <td><img src="./DashboardIndexCSS/Masstel Tab 10 4G 23.png" height="100" width="100"></td>
+            <td><img src="DashboardCSS/Masstel Tab 10 4G 23.png" height="100" width="100"></td>
             <td>Laptop</td>
             <td>Masstel</td>
 
@@ -132,7 +132,7 @@
 
             <td>iPad 10.2 2020 Wi-Fi + Cellular 32GB</td>
             <td>13799000</td>
-            <td><img src="./DashboardIndexCSS/iPad 1045.png" height="100" width="100"></td>
+            <td><img src="DashboardCSS/iPad 1045.png" height="100" width="100"></td>
             <td>Máy tính bảng</td>
             <td>Apple</td>
 
@@ -161,7 +161,7 @@
 
             <td>Samsung Galaxy A22 5G</td>
             <td>6299000</td>
-            <td><img src="./DashboardIndexCSS/samsung a22 5g83.jfif" height="100" width="100"></td>
+            <td><img src="DashboardCSS/samsung a22 5g83.jfif" height="100" width="100"></td>
             <td>Điện thoại</td>
             <td>Samsung</td>
 
@@ -190,7 +190,7 @@
 
             <td>Asus TUF FX505DT HN478T R7 3750H/8GB/512GB SSD/Win10</td>
             <td>22990000</td>
-            <td><img src="./DashboardIndexCSS/ASUS-TUF-FX505DD-0183.jpg" height="100" width="100"></td>
+            <td><img src="DashboardCSS/ASUS-TUF-FX505DD-0183.jpg" height="100" width="100"></td>
             <td>Laptop</td>
             <td>Masstel</td>
 
@@ -219,7 +219,7 @@
 
             <td>Asus Vivobook A515EP BQ193T i5</td>
             <td>20090000</td>
-            <td><img src="./DashboardIndexCSS/637396732534895117_asus-vivobook-a515-bac-175.jfif" height="100" width="100"></td>
+            <td><img src="DashboardCSS/637396732534895117_asus-vivobook-a515-bac-175.jfif" height="100" width="100"></td>
             <td>Laptop</td>
             <td>Asus</td>
 
@@ -248,7 +248,7 @@
 
             <td>Samsung A22 4G</td>
             <td>5290000</td>
-            <td><img src="./DashboardIndexCSS/59582997738.jpeg" height="100" width="100"></td>
+            <td><img src="DashboardCSS/59582997738.jpeg" height="100" width="100"></td>
             <td>Điện thoại</td>
             <td>Samsung</td>
 

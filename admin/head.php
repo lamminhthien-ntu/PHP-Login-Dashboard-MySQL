@@ -15,23 +15,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         }
     </script>
     <!-- bootstrap-css -->
-    <link rel="stylesheet" href="./DashboardIndexCSS/bootstrap.min.css">
+    <link rel="stylesheet" href="DashboardCSS/bootstrap.min.css">
     <!-- //bootstrap-css -->
     <!-- Custom CSS -->
-    <link href="./DashboardIndexCSS/style.css" rel="stylesheet" type="text/css">
-    <link href="./DashboardIndexCSS/style-responsive.css" rel="stylesheet">
+    <link href="DashboardCSS/style.css" rel="stylesheet" type="text/css">
+    <link href="DashboardCSS/style-responsive.css" rel="stylesheet">
     <!-- font CSS -->
-    <link href="./DashboardIndexCSS/css" rel="stylesheet" type="text/css">
+    <link href="DashboardCSS/css" rel="stylesheet" type="text/css">
     <!-- font-awesome icons -->
-    <link rel="stylesheet" href="./DashboardIndexCSS/font.css" type="text/css">
+    <link rel="stylesheet" href="DashboardCSS/font.css" type="text/css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="./DashboardIndexCSS/morris.css" type="text/css">
+    <link rel="stylesheet" href="DashboardCSS/morris.css" type="text/css">
     <!-- calendar -->
-    <link rel="stylesheet" href="./DashboardIndexCSS/monthly.css">
+    <link rel="stylesheet" href="DashboardCSS/monthly.css">
     <!-- //calendar -->
     <!-- //font-awesome icons -->
-    <script src="./DashboardIndexCSS/jquery2.0.3.min.js.download"></script>
-    <script src="./DashboardIndexCSS/raphael-min.js.download"></script>
-    <script src="./DashboardIndexCSS/morris.js.download"></script>
+    <script src="DashboardCSS/jquery2.0.3.min.js.download"></script>
+    <script src="DashboardCSS/raphael-min.js.download"></script>
+    <script src="DashboardCSS/morris.js.download"></script>
     <script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script>
 </head>

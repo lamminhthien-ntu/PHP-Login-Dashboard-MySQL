@@ -25,7 +25,7 @@ include('head.php');
                     <!-- user login dropdown start-->
                 </a>
                 <li class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="http://localhost/shopbanhanglaravel/all-product#">
-                        <img alt="" src="./DashboardIndexCSS/2.png">
+                        <img alt="" src="DashboardCSS/2.png">
                         <span class="username">
 								Lâm Minh Thiện
 							</span>
